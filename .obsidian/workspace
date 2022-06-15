@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "0a9a9a2c5ba585ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7536775be9b82f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cqrs/resources.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bce2d101d9736da",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd0a53d7933643d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0d6e9a4d34203d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7382538bd1b06d68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbfa788892c5314b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad966e873c96c08a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8f5265b06fc93c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cqrs/resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f7536775be9b82f8",
+  "lastOpenFiles": [
+    "cqrs/resources.md",
+    "cqrs/about.md",
+    "resources.md"
+  ]
+}
