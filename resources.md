@@ -41,3 +41,8 @@
 [Железнодорожно-ориентированное программирование. Обработка ошибок в функциональном стиле](https://habr.com/ru/post/339606/) - отличная статья по функциональному подходу в работе с ошибками
 
 [План самостоятельного обучения DDD, CQRS, EventSourcing](https://habr.com/ru/post/653421/) - очень много полезных ссылок на ресурсы
+
+## Blogs
+[Enterprise Craftsmanship](https://enterprisecraftsmanship.com)
+
+[@emacsway’s blog](https://emacsway.github.io)
